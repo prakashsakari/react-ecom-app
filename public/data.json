@@ -1,0 +1,92 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "name": "Rich Dad Poor Dad",
+            "image": "https://literatureglobe.com/wp-content/uploads/2020/10/Rich-Dad-Poor-Dad-Front-min-e1601808025506.jpg",
+            "category": "business",
+            "oldPrice": 700,
+            "newPrice": 560,
+            "discount": 20,
+            "rating": 4.1,
+            "isInStock": true
+        },
+        {
+            "id": "2",
+            "name": "The 5 AM Club",
+            "image": "https://5.imimg.com/data5/XE/DD/AO/SELLER-19351533/the-5-am-club-own-your-morning-elevate-your-life-robin-sharma-250x250.jpg",
+            "category": "business",
+            "oldPrice": 600,
+            "newPrice": 402,
+            "discount": 33,
+            "rating": 4.5,
+            "isInStock": true
+        },
+        {
+            "id": "3",
+            "name": "Why I am An Atheist",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41zsMB3h+rL._SY344_BO1,204,203,200_.jpg",
+            "category": "motivation",
+            "oldPrice": 350,
+            "newPrice": 297.5,
+            "discount": 15,
+            "rating": 1.8,
+            "isInStock": false
+        },
+        {
+            "id": "4",
+            "name": "Subtle Art of Not Giving a F*$k",
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465761302i/28257707._UY400_SS400_.jpg",
+            "category": "motivation",
+            "oldPrice": 800,
+            "newPrice": 400,
+            "discount": 50,
+            "rating": 4.1,
+            "isInStock": true
+        },
+        {
+            "id": "5",
+            "name": "Spider Man",
+            "image": "https://img.freepik.com/free-vector/superboy-superhero-cartoon-character-sticker_1308-73273.jpg?w=360&t=st=1661162002~exp=1661162602~hmac=e212701e94e2b7e2dda7b4636613cc880737964aa0016149527118882a91ab99",
+            "category": "comics",
+            "oldPrice": 1000,
+            "newPrice": 600,
+            "discount": 40,
+            "rating": 3.2,
+            "isInStock": false
+        },
+        {
+            "id": "6",
+            "name": "Batman Man",
+            "image": "https://img.freepik.com/free-vector/flying-superheroes-soaring-night-city-towers-comics-wonder-woman-super-man-characters-background-poster_1284-32328.jpg?w=740&t=st=1661160125~exp=1661160725~hmac=2e25d8c78cdfea829e454afcd285eff33d8001c3984e02a4e4465d6ac1f6a86f",
+            "category": "comics",
+            "oldPrice": 1200,
+            "newPrice": 816,
+            "discount": 32,
+            "rating": 2.2,
+            "isInStock": true
+        },
+        {
+            "id": "7",
+            "name": "Super Man",
+            "image": "https://img.freepik.com/free-vector/superhero-blue-costume-with-cape_107791-2892.jpg?w=740&t=st=1661160147~exp=1661160747~hmac=f019ec6cc0cc8931e53306a9945023f7caaa107704cc0b17d970b9b5064ca90d",
+            "category": "comics",
+            "oldPrice": 700,
+            "newPrice": 630,
+            "discount": 10,
+            "rating": 3.6,
+            "isInStock": true
+        },
+        {
+            "id": "8",
+            "name": "Dr. Strange",
+            "image": "https://img.freepik.com/free-vector/superhero-standing-front-sunburst_603843-1871.jpg?w=740&t=st=1661160201~exp=1661160801~hmac=79b919b0e577b40ed7fcb699a664ca76a61301030df6ae0af23b5db6d06bf405",
+            "category": "comics",
+            "oldPrice": 1000,
+            "newPrice": 350,
+            "discount": 65,
+            "rating": 2.5,
+            "isInStock": true
+        }
+    ]
+}
