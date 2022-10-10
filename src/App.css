@@ -1,0 +1,32 @@
+@import url("https://uilight.netlify.app/main.css");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons+Outlined");
+
+:root {
+    --primary-color: #1f2937;
+    --primary-color-hover: #FF6E72;
+    --secondary-color: #caebf2;
+    --secondary-color: #3BFFFB;
+    --background-color: #efefef;
+    --text-color-primary: #1C1917;
+    --text-color-secondary: #F8FAFC;
+    --accent-color: #a9a9a9;
+    --border-color: #e5e7eb;
+    --success: #4ade80;
+    --error: #f87171;
+    --warning: #fde047;
+    --info: #bfdbfe;
+    --green-badge: #059669;
+    --red-badge: #dc2626;
+    --yellow-badge: #facc15;
+    --btn-disable-color: #818cf8;
+    --card-background: #F8FAFC;
+    --star-color: #fde047;
+    --overlay: rgba(0, 0, 0, .3);
+    --btn-retry-text-color: #6366f1;
+    --toast-background-color: #27272a;
+}
+
+body {
+    overflow: auto;
+}
